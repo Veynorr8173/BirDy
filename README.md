@@ -1,0 +1,2 @@
+# BirDy
+Yapay zeka 
