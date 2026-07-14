@@ -45,14 +45,11 @@ BİRDY is a high-performance autonomous AI interface designed for deep OS integr
 
 ## ⚡ Ignition Protocol
 
-1. **Prerequisites:** Ensure Python 3.10+ is installed and your mic/speaker are active.
+1. **Prerequisites:** Ensure Python 3.13+ is installed and your mic/speaker are active.
 2. **Setup:** Run `installer.bat` to synchronize all neural dependencies.
 3. **Authorization:** Enter your Google Gemini API Key in the secure vault when prompted on first launch.
 4. **Ignition:** Launch `run.bat` to ignite the BİRDY Neural Engine.
 
 ---
 
-## ⚖️ License
-Distributed under the MIT License. See `LICENSE` for more information.
 
-© 2026 **BİRDY** | *Secure Neural Link Activated.*
