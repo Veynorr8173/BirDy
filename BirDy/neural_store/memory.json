@@ -1,0 +1,15 @@
+{
+  "identity": {
+    "name": {
+      "value": "User"
+    }
+  },
+  "preferences": {},
+  "relationships": {},
+  "notes": {},
+  "location": {
+    "city": {
+      "value": ""
+    }
+  }
+}
