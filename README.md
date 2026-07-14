@@ -11,6 +11,8 @@ Proaktif Zeka: Kullanıcı ihtiyaçlarını önceden tahmin eder ve gerçek zama
 Görsel Tele-senkronizasyon: Ekrandan ve kameradan gelen görsel verileri analiz eder ve bunlara yanıt verir.
 JARVIS benzeri arayüz: Hareketli animasyonlar ve HUD öğeleri içeren sinematik görsel arayüz.
 Sesli Etkileşim: JARVIS özelliklerine uygun yapay zekâ kişiliği ile doğal sohbet.
+
+
 🏗️ Sistem Mimarisi
 central_nerveStratejik düşünme motoru (Planlayıcı) ve uygulama merkezi.
 ability_coreGerçek dünya sistemleriyle etkileşim için bir dizi otonom modül.
@@ -18,6 +20,8 @@ visual_linkGörsel veri işleme için gelişmiş sinirsel arayüz.
 neural_storeYerel vektör depolarını kullanan kalıcı uzun süreli bellek sinapsı.
 security_vaultHassas API ve kimlik bilgisi yönetimi için şifrelenmiş katman.
 system_lawsJARVIS için temel yönergeler ve kişilik protokolleri.
+
+
 🛠️ Modül Paketi
 Modül	Tanım
 open_app	Sistem uygulamalarını sorunsuz bir şekilde başlatır.
@@ -30,6 +34,8 @@ cmd_control	Kabuk komutlarının ve ikili işlemlerin doğrudan yürütülmesi.
 computer_control	Atom düzeyinde fare ve klavye kullanımı.
 weather_report	Çevresel senkronizasyon ve tahmin.
 youtube_video	İçerik özetleme ve medya oynatma.
+
+
 ⚡ Ateşleme Protokolü
 Önkoşullar: Python 3.13.0 veya üzeri sürümün kurulu olduğundan ve mikrofonunuzun/hoparlörünüzün aktif olduğundan emin olun.
 Kurulum:installer.bat Tüm sinirsel bağımlılıkları senkronize etmek için çalıştırın .
