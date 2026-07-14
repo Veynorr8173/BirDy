@@ -1,5 +1,5 @@
-🌐 BİRDY — Sinirsel Zeka Platformu
-Lisans: MIT Sürüm
+                                               🌐 BİRDY — Sinirsel Zeka Platformu
+
 
 BİRDY, derin işletim sistemi entegrasyonu ve karmaşık görev yürütme için tasarlanmış yüksek performanslı otonom bir yapay zeka arayüzüdür. Gelişmiş sinirsel işlemeyi kullanarak insan niyeti ile makine eylemi arasındaki boşluğu doldurur. Iron Man'deki JARVIS'ten ilham alan BİRDY, ses etkileşimi, görsel arayüz ve otonom yeteneklere sahip eksiksiz bir yapay zeka asistanı olarak hizmet vermektedir.
 
